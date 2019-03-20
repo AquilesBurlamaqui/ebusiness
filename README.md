@@ -1,4 +1,4 @@
-# Negóciso Eletrônicos e Novas Mídias
+# Negócios Eletrônicos e Novas Mídias
 Turma do PPGCTI
 Esta página é uma construção colaborativa das turmas do PPGCTI da ECT - UFRN.
 
