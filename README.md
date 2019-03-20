@@ -6,6 +6,7 @@ Para começar a contribuir bastar criar um usuário no gthub e seguir as seguint
 
 ## Sumário
 - [Definição de e-business](definicao/readme.md)
+- [Definição 2](definicao.md)
 
 
 
