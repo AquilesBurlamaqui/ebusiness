@@ -7,7 +7,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 ## Sumário
 - [Definição de e-business](definicao/readme.md)
 - [Definição 2](definição.md)
-- [E-business e e-commerce](ebusinesseecommerce.md)
+- [E-business e e-commerce](ebusinessecommerce.md)
 
 
 
