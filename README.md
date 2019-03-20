@@ -7,6 +7,7 @@ Esta página é uma construção colaborativa das turmas do [PPGCTI](http://www.
 
 Para começar a contribuir bastar criar um usuário no github e seguir as seguintes [dicas de formatação de texto](https://guides.github.com/features/mastering-markdown/)
 
+* [Notas de aula turma 2019.1](https://docs.google.com/presentation/d/1xQqUvFyEG-6cAQXxxaRPadqaLk0Or5JVpKzoZe0478Y/edit?usp=sharing)
 
 * [Artigos](artigos/inicio.md)
 
