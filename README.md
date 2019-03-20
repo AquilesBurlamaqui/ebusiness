@@ -6,7 +6,7 @@ Para começar a contribuir bastar criar um usuário no gthub e seguir as seguint
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 ## Sumário
-- [Definição de e-business](definica/readme.md)
+- [Definição de e-business](definicao/readme.md)
 
 
 
