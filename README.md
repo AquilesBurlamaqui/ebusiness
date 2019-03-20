@@ -13,7 +13,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 
 ## Sumário
 
-- [Definição](definição.md)
+- [Visão Geral](visaogeral.md)
 - [E-business e e-commerce](ebusinessecommerce.md)
 - [Relacionamento B2C](b2c.md)
 
