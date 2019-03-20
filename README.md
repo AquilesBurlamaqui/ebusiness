@@ -4,9 +4,11 @@ Esta página é uma construção colaborativa das turmas do PPGCTI da ECT - UFRN
 
 Para começar a contribuir bastar criar um usuário no github e seguir as seguintes [dicas de formatação de texto](https://guides.github.com/features/mastering-markdown/)
 
+* [Artigos](artigos/inicio.md)
+
 ## Sumário
-- [Definição de e-business](definicao/readme.md)
-- [Definição 2](definição.md)
+
+- [Definição](definição.md)
 - [E-business e e-commerce](ebusinessecommerce.md)
 
 
