@@ -18,7 +18,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 - [Relacionamento B2C](b2c.md)
 - [E-Business no RN]()
 - [E-Business no Brasil]()
-- [E-Business no Mundo]()
+- [E-Business no Mundo](ebusinessmundo.md)
 - [Ferramentas para E-Business]()
 
 
