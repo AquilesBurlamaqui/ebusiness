@@ -10,6 +10,6 @@ Business to business E-commerce
 Business to consumer E-commerce, also called online shopping
 Consumer to consumer E-commerce
 Intra organizational E-commerce https://simple.m.wikipedia.org/wiki/Electronic_commerce
-
+3D technology
 
 
