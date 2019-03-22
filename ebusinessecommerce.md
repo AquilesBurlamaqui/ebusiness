@@ -20,4 +20,12 @@ https://simple.m.wikipedia.org/wiki/Electronic_commerce
 Os negócios entre empresas designam-se por B2B ou Business to Business, por oposição aos negócios B2C ou Businnes to Consumer, que se dirigem aos consumidores.
 Os negócios B2B permitem centenas ou milhares de transacções seja como clientes seja como fornecedores. Levar a cabo estas transacções electronicamente proporciona amplas vantagens competitivas sobre os métodos tradicionais. Quando devidamente implementado, o e-commerce é mais rápido, mais barato e mais conveniente do que os métodos tradicionais de transacção de bens e serviços.
 
+# O que é preciso para ter um Comércio eletrônico?
+
+Para começar um negócio online é melhor encontrar um produto de nicho que os consumidores tenham dificuldade em encontrar em centros comerciais ou grandes armazéns comerciais.
+Depois pode optar-se entre fazer um site próprio para e-commerce a partir do zero ou adaptar a um site já existente uma secção de loja online através dum software próprio.
+Também é importante ter em consideração o aspecto da expedição. Para diversos tipos de mercadoria o processo logístico associado à entrega é um problema, como por exemplo as garrafas de vinho, enquanto outros tipos não carecem de cuidados especiais no seu manuseamento, como é o caso dos livros ou DVD’s.
+
+
+
 
