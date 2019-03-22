@@ -3,6 +3,12 @@ Comércio eletrônico,e-commerce, comércio virtual ou venda não-presencial (qu
 
 E-commerce significa comércio eletrônico, ou seja, o conjunto de atividades comerciais que acontecem on line. A diferença entre E-commerce e E-business, expressões que muitas pessoas confundem, existe. E-business não envolve transação comercial, é um negócio eletrônico, uma negociação feita pela Internet mas que não envolve necessariamente uma transação comercial.https://www.e-commerce.org.br/e-business/
 
+É um conceito aplicável a qualquer tipo de negócio ou transacção comercial que implique a transferência de informação através da Internet. Abrange uma gama de diferentes tipos de negócios, desde sites de retalho destinado a consumidores, a sites de leilões, passando por comércio de bens e serviços entre organizações.
+E-commerce é actualmente um dos mais importantes fenómenos da Internet em crescimento.
+O e-commerce permite que os consumidores transaccionem bens e serviços electronicamente sem barreiras de tempo ou distância. O comércio electrónico expandiu-se rapidamente nos últimos anos e prevê-se que continue expandir-se com a mesma taxa de crescimento ou mesmo que haja uma aceleração do crescimento. Brevemente as fronteiras entre comércio “convencional” e “electrónico” tenderão a esbater-se, pois cada vez mais negócios deslocam secções inteiras das suas operações para a Internet.
+
+#Tipos de e-Commerce
+
 There are 5 common types of E-commerce:
 * Consumer to business E-commerce
 * Business to business E-commerce
@@ -11,5 +17,7 @@ There are 5 common types of E-commerce:
 * Intra organizational E-commerce 
 https://simple.m.wikipedia.org/wiki/Electronic_commerce
 
-# Conceito de e-Commerce
-Comércio electrónico ou e-Commerce é um conceito aplicável a qualquer tipo de negócio ou transacção comercial que implique a transferência de informação através da Internet. ... O e-commerce permite que os consumidores transaccionem bens e serviços electronicamente sem barreiras de tempo ou distância.
+Os negócios entre empresas designam-se por B2B ou Business to Business, por oposição aos negócios B2C ou Businnes to Consumer, que se dirigem aos consumidores.
+Os negócios B2B permitem centenas ou milhares de transacções seja como clientes seja como fornecedores. Levar a cabo estas transacções electronicamente proporciona amplas vantagens competitivas sobre os métodos tradicionais. Quando devidamente implementado, o e-commerce é mais rápido, mais barato e mais conveniente do que os métodos tradicionais de transacção de bens e serviços.
+
+
