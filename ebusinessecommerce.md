@@ -3,8 +3,13 @@ Comércio eletrônico,e-commerce, comércio virtual ou venda não-presencial (qu
 
 
 e-business são todas os processos e tecnologias aplicados...
+There are 5 common types of E-commerce:
 
-
+Consumer to business E-commerce[2]
+Business to business E-commerce
+Business to consumer E-commerce, also called online shopping
+Consumer to consumer E-commerce
+Intra organizational E-commerce https://simple.m.wikipedia.org/wiki/Electronic_commerce
 
 
 
