@@ -30,4 +30,7 @@ Também é importante ter em consideração o aspecto da expedição. Para diver
 
 O e-business pode ser definido como sistemas de informação que auxiliam os processos de negócio. Geralmente, as duas grandes áreas do e-business são o e-commerce e também o e-service. Como citado anteriormente, o e-commerce é a realização de vendas pela internet, sejam essas vendas  feitas entre uma empresa e outra ou então entre uma empresa e um cliente.
 
+# Negócio Eletrônico
+
+O comércio eletrônico identifica o uso intensivo de Tecnologia da Informação (Beam e Segev, 1996) na mediação das relações entre consumidores e fornecedores. Para a melhor compreensão das vantagens e riscos do comércio eletrônico, no entanto, é útil a sua divisão em dois blocos principais. O primeiro bloco indica as atividades relativas a transações entre empresas que compram e vendem produtos entre si. Este grupo se caracteriza por um número relativamente baixo de transações de alto valor financeiro. O segundo bloco, das transações entre empresas e consumidores finais, se caracteriza por alto volume relativo de transações com baixo valor financeiro envolvido em cada uma delas. Fonte: http://www.scielo.br/scielo.php?pid=S1415-65551999000100005&script=sci_arttext&tlng=es
 
