@@ -34,3 +34,7 @@ O e-business pode ser definido como sistemas de informação que auxiliam os pro
 
 O comércio eletrônico identifica o uso intensivo de Tecnologia da Informação (Beam e Segev, 1996) na mediação das relações entre consumidores e fornecedores. Para a melhor compreensão das vantagens e riscos do comércio eletrônico, no entanto, é útil a sua divisão em dois blocos principais. O primeiro bloco indica as atividades relativas a transações entre empresas que compram e vendem produtos entre si. Este grupo se caracteriza por um número relativamente baixo de transações de alto valor financeiro. O segundo bloco, das transações entre empresas e consumidores finais, se caracteriza por alto volume relativo de transações com baixo valor financeiro envolvido em cada uma delas. Fonte: http://www.scielo.br/scielo.php?pid=S1415-65551999000100005&script=sci_arttext&tlng=es
 
+# Négocio Eletrônico 
+
+É o termo usado para identificar os negócios surgidos geralmente na Internet. Normalmente é conhecido como Négocio Eletrônico ou e-business. E-business tem como aplicação a criação de sistemas capazes de prover comunicação entre empresas agilizando os processo de compra e venda entre as mesmas. 
+[Fonte](https://pt.m.wikipedia.org/wiki/E-business#/search)
