@@ -26,6 +26,9 @@ Para começar um negócio online é melhor encontrar um produto de nicho que os 
 Depois pode optar-se entre fazer um site próprio para e-commerce a partir do zero ou adaptar a um site já existente uma secção de loja online através dum software próprio.
 Também é importante ter em consideração o aspecto da expedição. Para diversos tipos de mercadoria o processo logístico associado à entrega é um problema, como por exemplo as garrafas de vinho, enquanto outros tipos não carecem de cuidados especiais no seu manuseamento, como é o caso dos livros ou DVD’s.
 
+O e-Commerce pode ser uma actividade muito gratificante, mas não se pode ganhar dinheiro do dia para a noite. É importante fazer muita pesquisa, fazer perguntas, trabalhar intensamente e tomar decisões de negócio sobre os factos aprendidos com a pesquisa e estudo efectuados.
+
+
 
 
 
