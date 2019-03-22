@@ -13,4 +13,5 @@ Consumer to consumer E-commerce
 Intra organizational E-commerce https://simple.m.wikipedia.org/wiki/Electronic_commerce
 3D technology
 
-
+# Conceito de e-Commerce
+Comércio electrónico ou e-Commerce é um conceito aplicável a qualquer tipo de negócio ou transacção comercial que implique a transferência de informação através da Internet. ... O e-commerce permite que os consumidores transaccionem bens e serviços electronicamente sem barreiras de tempo ou distância.
