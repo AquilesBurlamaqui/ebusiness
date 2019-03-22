@@ -7,7 +7,7 @@ E-commerce significa comércio eletrônico, ou seja, o conjunto de atividades co
 E-commerce é actualmente um dos mais importantes fenómenos da Internet em crescimento.
 O e-commerce permite que os consumidores transaccionem bens e serviços electronicamente sem barreiras de tempo ou distância. O comércio electrónico expandiu-se rapidamente nos últimos anos e prevê-se que continue expandir-se com a mesma taxa de crescimento ou mesmo que haja uma aceleração do crescimento. Brevemente as fronteiras entre comércio “convencional” e “electrónico” tenderão a esbater-se, pois cada vez mais negócios deslocam secções inteiras das suas operações para a Internet.
 
-#Tipos de e-Commerce
+# Tipos de Comércio eletrônico
 
 There are 5 common types of E-commerce:
 * Consumer to business E-commerce
