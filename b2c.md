@@ -1,7 +1,7 @@
 
 # Relacionamento B2C
 
-De acordo com a Endeavor: 
+De acordo com a Endeavor:
 
 
 
@@ -10,7 +10,7 @@ De acordo com a Endeavor:
 
 Negócios B2C e o desafio de conquistar (de verdade) o consumidor
 Estratégia e Gestão Marketing Vendas Artigos
-Endeavor Brasil 
+Endeavor Brasil
 Endeavor Brasil
 Todo empreendedor precisa ter clareza da proposta de valor do seu negócio e se ele é B2B ou B2C. Entenda o que esses conceitos significam e como ser relevante para o cliente é questão de sobrevivência em um negócio B2C.
 
@@ -51,3 +51,5 @@ Aposte em boas histórias. Atualmente, as melhores campanhas de negócios B2C pa
 As redes sociais são fundamentais. Mesmo que você não goste de usar o facebook, ache uma invasão de privacidade, perda de tempo e etc, se sua empresa está inserida num mercado B2C, você precisa estar bem posicionado nas redes. Isso tem relação com a credibilidade da sua empresa, mas também com a admiração e a influência dela na rede. Se seus perfis nas redes têm milhares de fãs, com certeza esse dado vai influenciar futuros consumidores e, mais do que isso, suas postagens ganharão muito mais relevância. Agora, cuidado: é um tiro no pé você investir apenas em anúncios pagos para melhorar o desempenho. O consumidor está interessado em informação relevante e que estabeleça com ele uma ligação emocional.
 
 Crie espaços de diálogo com o consumidor. Mais do que isso, interaja com ele. Essa é uma forma de personalizar seu atendimento em um B2C. Acredite, ele vai se sentir muito especial e vai valorizar ainda mais a sua empresa. A Amazon utiliza ferramentas digitais de feedback para engajar clientes muito interessantes, por exemplo. Entre suas frentes de ação, está um sistema de recomendação, botão de compras de um clique e um programa de fidelidade Prime. No caso deles, essa capacidade de personalizar o atendimento e se envolver com cada cliente é um enorme diferencial a longo prazo pois fideliza o cliente.
+
+# Conhecendo seu cliente

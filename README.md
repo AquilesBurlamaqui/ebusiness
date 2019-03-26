@@ -16,12 +16,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 - [Visão Geral](visaogeral.md)
 - [E-business e e-commerce](ebusinessecommerce.md)
 - [Relacionamento B2C](b2c.md)
-- [E-Business no RN]()
-- [E-Business no Brasil]()
+- [E-Business no RN](ebusinessnoRN.md)
+- [E-Business no Brasil](ebusinessnobrasil.md)
 - [E-Business no Mundo](ebusinessmundo.md)
-- [Ferramentas para E-Business]()
-
-
-
-
-
+- [Ferramentas para E-Business](ferramentasparaebusiness.md)
