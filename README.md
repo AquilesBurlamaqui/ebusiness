@@ -19,5 +19,6 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 - [E-Business no RN](ebusinessnoRN.md)
 - [E-Business no Brasil](ebusinessnobrasil.md)
 - [E-Business no Mundo](ebusinessmundo.md)
-- [Ferramentas para E-Business](ferramentasparaebusiness.md)
 - [Customer Success](customersuccess.md)
+- [Ferramentas para E-Business](ferramentasparaebusiness.md)
+
