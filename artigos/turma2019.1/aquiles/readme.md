@@ -27,7 +27,8 @@
 
  Criar um parágrafo guiando o leitor para os próximos capítulos. Descrevendo sucintamente do que cada um deles trata.
  
- ## 2. Embasamento Teórico  (Resumir os assunto, temas que são necessários para o entendimento do seu trabalho)
+ ## 2. Embasamento Teórico  
+ (Resumir os assunto, temas que são necessários para o entendimento do seu trabalho)
 
  ## 3. Estado da Arte 
  (falar sobre alguns trabalhos que jah tenham feito algo relacionado ao seu)
