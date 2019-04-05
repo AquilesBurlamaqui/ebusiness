@@ -13,12 +13,12 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 
 ## Sumário
 
-- [Visão Geral](visaogeral.md)
-- [E-business e e-commerce](ebusinessecommerce.md)
-- [Relacionamento B2C](b2c.md)
-- [E-Business no RN](ebusinessnoRN.md)
-- [E-Business no Brasil](ebusinessnobrasil.md)
-- [E-Business no Mundo](ebusinessmundo.md)
-- [Customer Success](customersuccess.md)
-- [Ferramentas para E-Business](ferramentasparaebusiness.md)
+1. [Visão Geral](visaogeral.md)
+1. [E-business e e-commerce](ebusinessecommerce.md)
+1. [Relacionamento B2C](b2c.md)
+1. [E-Business no RN](ebusinessnoRN.md)
+1. [E-Business no Brasil](ebusinessnobrasil.md)
+1. [E-Business no Mundo](ebusinessmundo.md)
+1. [Customer Success](customersuccess.md)
+1. [Ferramentas para E-Business](ferramentasparaebusiness.md)
 
