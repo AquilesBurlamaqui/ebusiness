@@ -9,7 +9,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 
 * [Notas de aula turma 2019.1](https://docs.google.com/presentation/d/1xQqUvFyEG-6cAQXxxaRPadqaLk0Or5JVpKzoZe0478Y/edit?usp=sharing)
 
-* [Artigos](artigos/inicio.md)
+* [Artigos](artigos/readme.md)
 
 ## Sumário
 
