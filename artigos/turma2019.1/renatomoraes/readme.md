@@ -1,3 +1,7 @@
+E-commerce significa comércio eletrônico, ou seja, o conjunto de atividades comerciais que acontecem on line. A diferença entre E-commerce e E-business, expressões que muitas pessoas confundem, existe. E-business não envolve transação comercial, é um negócio eletrônico, uma negociação feita pela Internet mas que não envolve necessariamente uma transação comercial.
+
+
+
 Odontologia Contemporânea Digital
 Renato Luis Fonseca de Moraes
 
