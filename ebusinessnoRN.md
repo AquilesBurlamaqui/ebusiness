@@ -4,5 +4,5 @@
 
 ## Bee Delivery
 
-## Autoforce  ## [https://blog.autoforce.com]
+## Autoforce: [https://blog.autoforce.com]
 
