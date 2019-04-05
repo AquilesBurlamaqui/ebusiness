@@ -17,6 +17,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 1. [E-business e e-commerce](ebusinessecommerce.md)
 1. Tipos de Relacionamentos no E-Bussines
    1. [Relacionamento B2C](b2c.md)
+   1. [Relacionamento B2B](b2b.md)
 1. [E-Business no RN](ebusinessnoRN.md)
 1. [E-Business no Brasil](ebusinessnobrasil.md)
 1. [E-Business no Mundo](ebusinessmundo.md)
