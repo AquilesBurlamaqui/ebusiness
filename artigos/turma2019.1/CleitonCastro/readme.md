@@ -1,10 +1,14 @@
 # Analise dos concorrentes PLUG PAY
-Testudar os Modelos de Negócios dos possíveis concorrentes do aplicativo Plug Pay, 
+Testudar os Modelos de Negócios dos possíveis concorrentes do aplicativo Plug Pay;
+
 Fazer uma análise das forças e fraquezas dos possíveis concorrentes do app Plug Pay
 
 Samsung Pay;
+
 e-dinheiro;
+
 recargapay;
+
 CittaMobi.
 
 
