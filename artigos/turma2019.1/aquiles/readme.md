@@ -1,14 +1,14 @@
-Título do Artigo
+# Título do Artigo
 
-Sumário
+## Sumário
 
-Resumo
+## Resumo
 
-Palavras-chave:
+## Palavras-chave:
 
- 1 . Introdução (Lembre-se de que um tópico nunca deverá ficar sem um texto relacionado a ele. Faça aqui, uma introdução geral da área do conhecimento à qual o tema escolhido está ligado. Na introdução você vai apresentar rapidamente o que esta sendo proposto. Tem que ser direto. Deixar claro para o leitor o que será apresentado nesse trabalho. ).
+ 1. Introdução (Lembre-se de que um tópico nunca deverá ficar sem um texto relacionado a ele. Faça aqui, uma introdução geral da área do conhecimento à qual o tema escolhido está ligado. Na introdução você vai apresentar rapidamente o que esta sendo proposto. Tem que ser direto. Deixar claro para o leitor o que será apresentado nesse trabalho. ).
 
-      1.1 . Motivação (Colocar qual a motivação para trabalhar esse tema. Tipo, deve se falar dos projetos do grupo ou não que estão relacionados com esse tema)
+    1.1. Motivação (Colocar qual a motivação para trabalhar esse tema. Tipo, deve se falar dos projetos do grupo ou não que estão relacionados com esse tema)
 1.2 . Problema (Definir o problema a ser trabalhado, qual a questão problema ? ***Dedique este tópico a esclarecer o que o pretende de fato com o seu esforço de pesquisa. Problema é a questão a ser respondida pelo trabalho, que motivou a sua realização. É uma questão que já tomou se formou em sua mente, derivada de teorias da área pesquisada e de sua observação sobre um fenômeno. Normalmente se utilizam os subitens abaixo como meios de se determinar claramente os objetivos, o que também colabora para a delimitação do escopo do trabalho. Está estreitamente ligado ao objetivo geral, que, normalmente, consiste em encontrar a resposta para o problema de pesquisa. ***
 *** O que você viu que é um problema que precisa de solução? É viável? Você consegue fazer? O problema é sempre uma dificuldade, uma lacuna. ***)
 
