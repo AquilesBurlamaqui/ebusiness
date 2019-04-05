@@ -14,4 +14,4 @@ CittaMobi.
 
 # Definição de E-business
 
-O e-business é uma ferramenta que as empresas veja elas micros, pequenas ou grandes utilizam para auxiliar melhor no desenvolvimento do negócio ou melhorar os processos através dos sistemas de informações.
+O e-business é uma ferramenta que as empresas veja elas micros, pequenas ou grandes utilizam para auxiliar melhor no desenvolvimento do negócio ou melhorar os processos através dos sistemas de informações. O e-commerce falta terminarrrr
