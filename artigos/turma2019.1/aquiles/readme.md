@@ -38,5 +38,5 @@
 (Falar os pontos fracos, pontos fortes e resumo do trabalho relacionado)
 ### 3.3 Comparação entre os trabalhos 
 (Fazer uma tabela comparando o proposto com os trabalhos estudados, um paragrafo descrevendo e explicando a tabela.)
-
+ 
 
