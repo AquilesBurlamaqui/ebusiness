@@ -25,10 +25,17 @@ Desconhecimento da sociedade, pouca divulgação;
 O ambiente é o mesmo: a escola;
 
 
+Nave à vela: Plataforma de inovação educacional baseada na cultura maker e alinhada aos conteúdos curriculares  através do CCI( Currículo de Cultura de Inovação).Para a implementação do Currículo de Cultura de Inovação (CCI), o Nave à Vela leva a instituição de ensino a uma jornada dividida em quatro módulos:imersão presencial, espaço maker, facilitador e acompanhamento.
 
+Pontos fortes:
 
+cultura maker; 
+Desenvolvimentos de competências socioemocionais: empatia,colaboração e autonomia;
+Desenvolvimento de projetos;
 
-Plataforma de Ensino Eleva:
+Pontos Fracos: 
 
-Naveavela
+Aquisição dos materias;
+Construção do espaço maker;
+
 
