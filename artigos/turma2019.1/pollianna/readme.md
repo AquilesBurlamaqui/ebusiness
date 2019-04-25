@@ -8,7 +8,9 @@ Check point 1: pesquisar 3 modelos de negócios eletrônicos relacionados a Scho
 
 Scholae 3.0 : B2C (business to consumer) = escolas e alunos(consumidores) ou B2G quando o governo é o maior consumidor= detentor das parcerias.
 
-Fundação Leman: Trata de uma organização familiar, sem fins lucrativos que atua em parceria com Governos e outras entidades da sociedade civil, de maneira plural e inclusiva.
+Fundação Leman: A Fundação Lemann é uma organização familiar e sem fins lucrativos que colabora com iniciativas para a educação pública em todo o Brasil e apoia pessoas comprometidas em resolver grandes desafios sociais do país.
+
+
 
 
 TJC: O Programa Trabalho, Justiça e Cidadania é uma iniciativa de construção de cidadania da Associação Nacional dos Magistrados da Justiça do Trabalho (Anamatra). Por meio do Programa, magistrados, membros do Ministério Público, advogados, professores de Direito e servidores do Judiciário semeiam noções básicas de direitos fundamentais, direito do trabalho, direito da criança e do adolescente, direito do consumidor, direito penal, ética e cidadania em escolas, especialmente as públicas, de diversos estados e municípios. 
@@ -29,7 +31,7 @@ Nave à vela: Plataforma de inovação educacional baseada na cultura maker e al
 
 Pontos fortes:
 
-cultura maker; 
+Cultura maker; 
 Desenvolvimentos de competências socioemocionais: empatia,colaboração e autonomia;
 Desenvolvimento de projetos;
 
