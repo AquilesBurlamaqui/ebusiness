@@ -1,3 +1,3 @@
-E-COMMERCE: Comércio eletrônico, conjunto de atividades que acontecem on line.
+E-COMMERCE: Comércio eletrônico, conjunto de atividades que acontecem on line sem interação humana.
 
-E-BUSINESS: Sistema de informação que auxilia o processo de negócio.
+E-BUSINESS: Sistema de informação que auxilia o processo de negócio podendo ou não haver uma transação comercial. Refere-se a inetração de todos os envolvidos no processo: fornecedores, clientes,concorrentes...
