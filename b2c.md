@@ -55,3 +55,5 @@ As redes sociais são fundamentais. Mesmo que você não goste de usar o faceboo
 Crie espaços de diálogo com o consumidor. Mais do que isso, interaja com ele. Essa é uma forma de personalizar seu atendimento em um B2C. Acredite, ele vai se sentir muito especial e vai valorizar ainda mais a sua empresa. A Amazon utiliza ferramentas digitais de feedback para engajar clientes muito interessantes, por exemplo. Entre suas frentes de ação, está um sistema de recomendação, botão de compras de um clique e um programa de fidelidade Prime. No caso deles, essa capacidade de personalizar o atendimento e se envolver com cada cliente é um enorme diferencial a longo prazo pois fideliza o cliente.
 
 # Conhecendo seu cliente
+Para conhecer quem são seus clientes, é necessário primeiramente descobrir que dor ele sente, qual sua necessidade para poder traçar um plano denegócio direcionado e atender sua principal necessidade.
+
