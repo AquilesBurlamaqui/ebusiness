@@ -1,3 +1,5 @@
+* [Link do artigo](https://docs.google.com/document/d/1Sd-4WvsLIMGwt3yOobKzjFRftkIFocMKKmaGLaV8omk/edit?usp=sharing)
+
 # Modelos de rendimentos em conta corrente em Bancos Virtuais no Brasil
  * Estudar os modelos do Nubank, Inter e outros.
  * Saber como são os critérios de rendimento que eles propõem.
