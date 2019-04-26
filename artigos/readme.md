@@ -1,6 +1,8 @@
 
 # Artigos das Turmas de Negócios Eletrônicos da UFRN
 
+[Guia para Escrita de Artigos Ciêntificos](https://docs.google.com/document/d/1EO0oFDhCDIrdFhSuv943vHrbwlfDpdVDLcz__mHHJdA)
+
 
 ## 2019.1
 ### Journal IJIER - Qualis A2 na área Interdiciplinar - [Chamada de trabalhos](https://ijier.net/ijier/cfp) 
