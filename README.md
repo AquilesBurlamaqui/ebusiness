@@ -25,10 +25,10 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 1. [Business Intelligence](bi.md)
 1. [Enterprise Resource Planning](erp.md)
 1. [E-commerce](ecommerce.md)
+1. [Customer Success](customersuccess.md)
 1. [E-Business no RN](ebusinessnoRN.md)
 1. [E-Business no Brasil](ebusinessnobrasil.md)
 1. [E-Business no Mundo](ebusinessmundo.md)
-1. [Customer Success](customersuccess.md)
 1. [Ferramentas para E-Business](ferramentasparaebusiness.md)
 
  
