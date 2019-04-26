@@ -7,7 +7,7 @@ Takahashi (2000)
 
 
 
-Tipos de e-commerce: saiba quais são e entenda como funcionam
+### Tipos de e-commerce: saiba quais são e entenda como funcionam
 https://rockcontent.com/blog/tipos-de-ecommerce/
 
 
