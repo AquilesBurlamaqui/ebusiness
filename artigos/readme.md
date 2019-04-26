@@ -11,3 +11,6 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 ### Trablhos em Desenvolvimento
 
 
+## 2019.2
+
+
