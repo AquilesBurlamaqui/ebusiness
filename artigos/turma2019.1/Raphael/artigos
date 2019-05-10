@@ -1,4 +1,27 @@
-# Definição de e-business
+# Artigo
+Título do Artigo
+Sumário
+Resumo
+O artigo em questão versa sobre a análise comparativa das metodologias emergentes no processo de determinação do slump no caminhão betoneira, assim como a aplicação de técnicas de automação, visando a redução da margem de erro na dosagem  dentro da concreteira, responsável por desvios acima do estabelecido em norma regulamentadora, redução na resistência final, e eventual devolução do material por falta de padronização, acarretando custos imprevistos para a central dosadora, e peças concretadas fora das especificações estabelecidas em projeto, o que poderá ocasionar reforço estrutural das mesmas.
+Palavras-chave:
+Concreto usinado; slump; automação; internet das coisas; caminhão betoneira; sistemas embarcados.
+1. Introdução
+De acordo com a cement sustainability iniciative (CSI), o concreto é o segundo material mais consumido, atrás apenas da água. O atual método construtivo requer a padronização do material utilizado, visando evitar o surgimento de patologias e desvios consideráveis na qualidade do concreto fornecido, sendo imprescindível o respeito aos procedimentos estabelecidos, desde o recebimento dos insumos necessários para a sua formulação, até a realização do rompimento dos corpos-de-prova, traçando comparativos das curvas de crescimento, e verificando se a resistência entregue e a solicitada estão compatíveis.
+Dentro da planta de uma unidade, verifica-se a presença de um sistema automatização de carregamento, levando-se em consideração cartas-traço, previamente cadastradas no sistema, e que levam em consideração a umidade dos agregados finos, é nesse contexto que identificamos a possibilidade de ocorrência de falhas na pesagem, pela falta de uma identificação correta desse parâmetro por parte do laboratorista, seja por deficiência técnica, ou pela chegada de novas remessas de material, que chegam com índices diferentes do que foi medido, e gera divergência na quantidade de água dosada, tendo a necessidade de redosagem por parte dos operadores de betoneira, que utilizam métodos visuais para a identificação do slump, e colocação de água da folga, podendo alterar a relação água/cimento, apresentada pela Lei de Abrams, e que expõe a redução da resistência à partir do aumento desse fator.
+Gráfico 1 – Relação a/c x Resistência
+ 
+Fonte: Associação Brasileira de Cimento Portland¹
+Este trabalho versará sobre os principais métodos alternativos que vem sendo estudados no segmento, com o intuito de reduzir o contato do operador de betoneira com o concreto, tornando a dosagem mais fidedigna, com o intuito de reduzir falhas no processo produtivo, redução no tempo de dosagem, assim como manutenção da fluidez através da colocação automatizada de água durante o trajeto, visando reduzir a redução natural de slump devido ao tempo e temperatura. 
+
+
+1.4 . Metodologia
+	O trabalho teve seu propósito alicerçado na pesquisa descritiva, com abordagem qualitativa, visando a compreensão das problemáticas reais encontradas dentro do cenário de uma usina de concreto. Os procedimentos utilizados foram a revisão bibliográfica, com o intuito de compreender as reações ocorridas no concreto, assim como pesquisa de campo por observação direta das atividades realizadas em algumas unidades de diferentes estados e regiões.
+1.5 . Justificativa
+	Tal temática foi selecionada devido a um clamor do segmento do concreto usinado, que tem dentro de suas unidades a incorporação dos melhores métodos; de acordo com Mesquita e Alliprandini (2003), para que haja sobrevivência e evolução em um mercado altamente competitivo, as melhorias continuadas devem ocorrer. 
+	Diante dessa necessidade, constatou-se a presença de processos automatizados, que reduzem as falhas na linha de produção, mas que são colocados em xeque diante da necessidade da utilização de um método visual no momento de correção do slump, sem nenhum aporte técnico, o que ocasiona redução na segurança do traço trabalhado, e necessidade de devolução por não cumprimento das especificações presentes na NBR 7212 (2012). Tal deficiência gerou trabalhos que deram aporte para uma melhor compreensão de tal problemática, assim como sua correção através da utilização de tecnologias emergentes, e que serão confrontados neste artigo.
+	 O entendimento do que vem servindo de aporte para o mercado sanar tal deficiência no método produtivo, assim como uma nova utilização de tecnologias que será apresentado subsequentemente será de grande valia para as empresas do segmento, no que concerne à sua utilização para reduzir falhar e melhorar os consumos dos insumos, que até então tem suas margens alteradas para a realização de eventuais correções.
+
+Definição de e-business
 E-business representa as relações de negócios existentes dentro de uma empresa, englobadas na realidade digital. Tal ferramenta
 facilita os processos internos, como logística interna, distribuição de produtos, cadastro de clientes, pagamento, dentre outras relações.
 Tem como modalidades de relacionamento o b2c, b2b, c2c, c2b, dentre outros. Pode ser encarado como uma nova forma de encarar a estratégia organizacional.
