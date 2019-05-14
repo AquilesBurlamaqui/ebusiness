@@ -11,7 +11,7 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 ### Trablhos em Desenvolvimento
 
 1. [Um sistema na Nuvem para resolver todos os problemas do mundo](https://docs.google.com/document/d/1pVRtEzSiuonfiS08IcdXQHXIYctiCQYpjothuQtrn7k/edit) by Aquiles Burlamaqui
-1. [Pagamentos por Aplicativos via Smartphones e seus Benefícios](https://docs.google.com/document/d/1L0_j7MGlVGo2W2eEQm0NwzhgRdqmkm1di42bexq8eCo/edit?usp=sharing)by Cleiton Castro
+1. [Pagamentos por Aplicativos via Smartphones no Brasil e seus Benefícios](https://docs.google.com/document/d/1L0_j7MGlVGo2W2eEQm0NwzhgRdqmkm1di42bexq8eCo/edit?usp=sharing) by Cleiton Castro
 1. [Bancos digitais no Brasil e seus fundos de investimento](https://docs.google.com/document/d/1Sd-4WvsLIMGwt3yOobKzjFRftkIFocMKKmaGLaV8omk/edit?usp=sharing) by Samuel Dias
 1. ....
 
