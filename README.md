@@ -24,7 +24,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
    1. [Relacionamento G2G](g2g.md)
 1. [Business Intelligence](bi.md)
 1. [Enterprise Resource Planning](erp.md)
-1. [E-commerce](ecommerce.md) (Grupo 1:???,??,???,???)
+1. [E-commerce](ecommerce.md) (Grupo 1:Ana Caline, Fabrício Rogério, Pollianna Torres, Thiago Lima)
 1. [Customer Success](customersuccess.md) (Grupo 2:???,??,???,???)
 1. [E-Business no RN](ebusinessnoRN.md) (Grupo 3:???,??,???,???)
 1. [E-Business no Brasil](ebusinessnobrasil.md) (Grupo 4: ???,??,???,???)
