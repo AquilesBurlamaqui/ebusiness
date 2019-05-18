@@ -27,7 +27,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 1. [E-commerce](ecommerce.md) (Grupo 1:Ana Caline, Fabrício Rogério, Pollianna Torres, Thiago Lima)
    1. [E-commerce na educação](ecommercenaeducacao.md)
    1. [E-commerce nas incubadoras](ecommercenasincubadoras.md)
-   1. [E-commerce Mobile](ecommercemobile.md)
+   1. [E-commerce mobile](ecommercemobile.md)
 1. [Customer Success](customersuccess.md) (Grupo 2:???,??,???,???)
 1. [E-Business no RN](ebusinessnoRN.md) (Grupo 3:???,??,???,???)
 1. [E-Business no Brasil](ebusinessnobrasil.md) (Grupo 4: ???,??,???,???)
