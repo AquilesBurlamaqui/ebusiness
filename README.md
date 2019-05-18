@@ -24,7 +24,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
    1. [Relacionamento G2G](g2g.md)
 1. [Business Intelligence](bi.md)
 1. [Enterprise Resource Planning](erp.md)
-1. [E-commerce](ecommerce.md) (Grupo 1:Ana Caline, Fabrício Rogério, Pollianna Torres, Thiago Lima)
+1. [E-commerce](Ecommerce.md) (Grupo 1:Ana Caline, Fabrício Rogério, Pollianna Torres, Thiago Lima)
    1. [E-commerce na educação](ecommercenaeducacao.md)
    1. [E-commerce nas incubadoras](ecommercenasincubadoras.md)
    1. [Como viabilizar o acesso de pessoas com deficiência ao comércio eletrônico](pessoascomdeficienciaaocomercioeletronico.md)
