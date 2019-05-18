@@ -15,7 +15,6 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 1. [Bancos digitais no Brasil e seus fundos de investimento](https://docs.google.com/document/d/1Sd-4WvsLIMGwt3yOobKzjFRftkIFocMKKmaGLaV8omk/edit?usp=sharing) by Samuel Dias
 1. [Incubadora como um Serviço](https://docs.google.com/document/d/11viSMJb7hw3z4S7byjXUgOWak0u3CKREky9sEldvPuc/edit?usp=sharing) by Fabrício Rogério
 1. [Incentivo a criação de negócios através da aplicação de metodologias ativas e do empreendedorismo inovador nas escolas](https://docs.google.com/document/d/17v6HcEmy1x3YfXdTIsUW1ZDGEOUXB-ANDkp3v0ZwEHY/edit?ts=5cde9e14) by Pollianna Torres
-1. [Teste do toolkit Design Thinking para educadores]
-(https://docs.google.com/document/d/1GXz1NdMIvG6SOcTCVrxPilBQlxENW2WiK3_jIKjn9S4/edit?usp=sharing) by Hilton Fernandes e Julio Mariano
+1. [Teste do toolkit Design Thinking para educadores(https://docs.google.com/document/d/1GXz1NdMIvG6SOcTCVrxPilBQlxENW2WiK3_jIKjn9S4/edit?usp=sharing) by Hilton Fernandes e Julio Mariano
 
 ## 2019.2
