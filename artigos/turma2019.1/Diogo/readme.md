@@ -1,6 +1,7 @@
 # Artigo iniciado.
 
-##5W2H
+## 5W2H
+
 **O que**: Utilizar métodos de aprendizado de máquina para tratar dados veiculares obtidos através da tecnologia OBD
 
 **Quem**: Diogo Ikaro (e orientadores)
