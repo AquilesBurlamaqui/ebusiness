@@ -1,5 +1,9 @@
 Visão geral e o ecommerce como ferramenta estratégica
 http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0093.pdf
+
+
+
+
 Conhecer o perfil do consumidor é a estratégia que traz mais resultados aos empreendedores de lojas virtuais, simplesmente porque oferecer o produto certo para cada grupo de pessoas pode alavancar os números da taxa de conversão. No Brasil, a média considerada ideal é baixa (fica entre 2% e 3%).
 
 Ainda assim, a maioria das empresas fica longe de alcançar esse resultado, que em contrapartida outras conseguem superar, com louvor. O que as faz diferentes das outras é um trabalho intenso de marketing em vendas, executado com a ajuda de ferramentas inteligentes que nem todas as plataformas oferecem.
