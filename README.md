@@ -28,7 +28,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
    1. [Visão geral e o e-commerce como ferramenta estratégica](ecommercevisaogeral.md)
    1. [E-commerce no Brasil e no mundo](ecommercenobrasilemundo.md)
    1. [Como viabilizar o acesso de pessoas com deficiência ao comércio eletrônico](pessoascomdeficienciaaocomercioeletronico.md)
-1. [Customer Success](customersuccess.md) (Grupo 2:???,??,???,???)
+1. [Customer Success](customersuccess.md) (Grupo 2:Diogo,??,???,???)
 1. [E-Business no RN](ebusinessnoRN.md) (Grupo 3:???,??,???,???)
 1. [E-Business no Brasil](ebusinessnobrasil.md) (Grupo 4: ???,??,???,???)
 1. [E-Business no Mundo](ebusinessmundo.md) (Grupo 5: Samuel Dias, Cleiton Castro,???,???)
