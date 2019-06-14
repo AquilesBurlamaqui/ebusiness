@@ -18,4 +18,5 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 1. [Teste do toolkit Design Thinking para educadores](https://docs.google.com/document/d/1GXz1NdMIvG6SOcTCVrxPilBQlxENW2WiK3_jIKjn9S4/edit?usp=sharing) by Hilton Fernandes e Julio Mariano
 1. [Utilizando realidade aumentada com geolocalização para potencializar seus negócios](https://docs.google.com/document/d/1Jr6PbF3WSX0dfT6ZCER1zI8V5tzgIW6HmSG2g8yp1t4/edit?usp=sharing) by Thiago Lima
 1. [Utilização de métodos de aprendizado de máquina para tratar dados veiculares obtidos através da tecnologia OBD-II](https://docs.google.com/document/d/1aufp3bpgUNFGycPyO6dilS8OYI1ABgnSoaNM9DFyMbw/edit?usp=sharing) by Diogo Ikaro
+1. Método de automatização do processo de redosagem de concreto em central dosadora - By Raphael Rodrigues
 ## 2019.2
