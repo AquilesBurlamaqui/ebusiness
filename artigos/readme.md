@@ -17,6 +17,7 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 1. [Incentivo a criação de negócios através da aplicação de metodologias ativas e do empreendedorismo inovador nas escolas](https://docs.google.com/document/d/17v6HcEmy1x3YfXdTIsUW1ZDGEOUXB-ANDkp3v0ZwEHY/edit?ts=5cde9e14) by Pollianna Torres
 1. [Teste do toolkit Design Thinking para educadores](https://docs.google.com/document/d/1GXz1NdMIvG6SOcTCVrxPilBQlxENW2WiK3_jIKjn9S4/edit?usp=sharing) by Hilton Fernandes, Julio Mariano e Marcelo Rosado
 1. [Utilizando realidade aumentada com geolocalização para potencializar seus negócios](https://docs.google.com/document/d/1Jr6PbF3WSX0dfT6ZCER1zI8V5tzgIW6HmSG2g8yp1t4/edit?usp=sharing) by Thiago Lima
+1. [Dispositivo de tecnologia assistiva para surdos como um serviço?](https://docs.google.com/document/d/18A0QcP-ko3-KKh49AXwA993ISm-Yx4O_uhPWkRXxrno/edit?usp=sharing) by Ana Caline
 1. [Utilização de métodos de aprendizado de máquina para tratar dados veiculares obtidos através da tecnologia OBD-II](https://docs.google.com/document/d/1aufp3bpgUNFGycPyO6dilS8OYI1ABgnSoaNM9DFyMbw/edit?usp=sharing) by Diogo Ikaro
 1. Método de automatização do processo de redosagem de concreto em central dosadora - By Raphael Rodrigues
 ## 2019.2
