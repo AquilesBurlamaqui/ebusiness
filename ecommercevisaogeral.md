@@ -26,7 +26,8 @@ Como o e -commerce é uma ferramenta que deve está alinhada com os perfis dos c
 Figura 7 – Em  2017, “O e-commerce continua apresentando um cenário positivo, principalmente por conta da consolidação do modelo de Marketplace no país, do aumento no número de consumidores virtuais e do consumo via mobile”´ Keine Monteiro, Gerente de Inteligência de Mercado Ebit (WEBSHOPPERS, 2018). Desde 2015 o ebit, em parceria com a FecomercioSP, passou a estudar mais profundamente o comércio eletrônico do estado de São Paulo (WEBSHOPPERS, 2016), gerando o gráfico de distribuição do faturamento do primeiro trimestre de 2016, conforme figura 8.
 
 
-Disponível em: 
+Referências
+
 http://www.fgv.br/network/tcchandler.axd?TCCID=7939
 http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0093.pdf
 IDESIS, Leandro. E-COMMERCE, E-BUSINESS, E-O QUE? Disponível em: http://www.e-commerce.org.br/artigos/ecommerce_ebusiness.php 
