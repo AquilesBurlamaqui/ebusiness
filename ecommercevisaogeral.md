@@ -1,4 +1,4 @@
-Este capítulo " Visão geral e o E-Commerce como ferramenta estratégica" trata de conteúdos bibliográficos necessários a fundamentação do tema. Abordando conceitos do e-commerce, sua importância e os impactos provocados no comportamento do consumidor contendo dados de um trabalho apresentado ao curso MBA em Gestão de Tecnologia da Informação,Pós-Graduação lato sensu, da Fundação Getúlio Vargas escrito por ANDRÉ LUÍS GNATIUC.
+Este capítulo " Visão geral e o E-Commerce como ferramenta estratégica" trata de conteúdos bibliográficos necessários a fundamentação do tema. Abordando conceitos do e-commerce, sua importância e os impactos provocados no comportamento do consumidor. 
 
 
 Enquanto as empresas estão imersas no mundo da Tecnologia de Informação é importante descobrir e utilizar meios e caminhos que facilitem seu desenvolvimento e progresso, para tanto o uso de ferramentas menos onerosas são vitais para a sobrevivência dessas empresas. Daí a importância do e-commerce como ferramenta estratégica que tem o objetivo de ajudar as organizações a adquirirem clientes potenciais, conhecerem mais os clientes, proporcionar uma melhor qualidade nas vendas, oferecendo para o consumidor aquilo o que ele realmente necessita e aumentando os seus  lucros. E tudo isso, investindo com baixo custo utilizando a Internet.
@@ -23,11 +23,12 @@ Conhecer o perfil do consumidor é a estratégia que traz mais resultados aos em
 É nesse conceito que se enquadra o comércio eletrônico),que surgiu como um diferencial estratégico de vendas para as organizações. Estratégia considerada eficaz  para avançar além do mercado, adquirindo e conhecendo cada vez mais os seus clientes e podendo oferecer aquilo o que o consumidor necessita com a maior comodidade para ele, e assim, vendendo, desenvolvendo, ganhando novos mercados (Internet) e obtendo sucesso. 
 Como o e -commerce é uma ferramenta que deve está alinhada com os perfis dos consumidores,  no intuito de validar seu diferencial competitivo em uma organização, segue abaixo os dados extraídos do TCC.
 
-Figura 7 – Em  2017, “O e-commerce continua apresentando um cenário positivo, principalmente por conta da consolidação do modelo de Marketplace no país, do aumento no número de consumidores virtuais e do consumo via mobile”´ Keine Monteiro, Gerente de Inteligência de Mercado Ebit (WEBSHOPPERS, 2018). Desde 2015 o ebit, em parceria com a FecomercioSP, passou a estudar mais profundamente o comércio eletrônico do estado de São Paulo (WEBSHOPPERS, 2016), gerando o gráfico de distribuição do faturamento do primeiro trimestre de 2016, conforme figura 8.
+Analisando dados de mercado Ebit:  Mais de 40% das vendas no e-commerce em 2019 foram feitas pelo celular, diz Ebit/Nielsen.Depois de aumentar 12% em 2018, o e-commerce deve ter mais um ano de crescimento na casa dos dois dígitos. Segundo o 39º Webshoppers, o comércio eletrônico no Brasil deve saltar 15% em 2019 e faturar R$ 61,2 bilhões. Em 2019, 42,8% das vendas foram finalizadas em dispositivo móveis, um recorde desde que a empresa começou a levantar os dados.
 
 
 Referências
 
+https://www.ecommercebrasil.com.br/noticias/e-commerce-crescer-15-faturar-61-bi-ebit-nielsen/
 http://www.fgv.br/network/tcchandler.axd?TCCID=7939
 http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0093.pdf
 IDESIS, Leandro. E-COMMERCE, E-BUSINESS, E-O QUE? Disponível em: http://www.e-commerce.org.br/artigos/ecommerce_ebusiness.php 
