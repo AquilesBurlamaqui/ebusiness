@@ -34,7 +34,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 1. [E-Business no Mundo](ebusinessmundo.md) (Grupo 5: Samuel Dias, Cleiton Castro,???,???)
    1. [Uma breve história sobre negócios]()
    1. [A Evolução do E-Business no mundo]()
-   1. [Sobre as empresas de e-business mais valiosas]()
+   1. [Sobre as empresas de e-business mais valiosas](ebusinessmaisvaliosas.md)
    1. [O futuro do E-business]()
 1. [Ferramentas para E-Business](ferramentasparaebusiness.md) (Grupo 6: Raphael,??,???,???)
 1. [Novas Mídias aplicadas ao E-business](novasmidias.md) (Grupo 7: Ligia,??,???,???)
