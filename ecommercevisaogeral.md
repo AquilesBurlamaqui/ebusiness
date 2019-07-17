@@ -1,5 +1,4 @@
-Este capítulo " Visão geral e o E-Commerce como ferramenta estratégica" trata de conteúdos bibliográficos necessários a fundamentação do tema. Abordando conceitos do e-commerce, sua importância e os impactos provocados no comportamento do consumidor apresentando dados de um artigo com o tema" O COMÉRCIO ELETRÔNICO COMO FERRAMENTA ESTRATÉGICA DE VENDAS PARA EMPRESAS " escrito por Letícia Lelis Diniz, Lívia Garcia Alves de Souza, Luan Rodrigues da Conceição e Marcelo Rangel Faustini para o III ENCONTRO CIENTÍFICO E SIMPÓSIO DE EDUCAÇÃO
-UNISALESIANO. 
+Este capítulo " Visão geral e o E-Commerce como ferramenta estratégica" trata de conteúdos bibliográficos necessários a fundamentação do tema. Abordando conceitos do e-commerce, sua importância e os impactos provocados no comportamento do consumidor apresentando dados de um trabalho apresentado ao curso MBA em Gestão de Tecnologia da Informação,Pós-Graduação lato sensu, da Fundação Getúlio Vargas escrito por ANDRÉ LUÍS GNATIUC.
 
 
 Enquanto as empresas estão imersas no mundo da Tecnologia de Informação é importante descobrir e utilizar meios e caminhos que facilitem seu desenvolvimento e progresso, para tanto o uso de ferramentas menos onerosas são vitais para a sobrevivência dessas empresas. Daí a importância do e-commerce como ferramenta estratégica que tem o objetivo de ajudar as organizações a adquirirem clientes potenciais, conhecerem mais os clientes, proporcionar uma melhor qualidade nas vendas, oferecendo para o consumidor aquilo o que ele realmente necessita e aumentando os seus  lucros. E tudo isso, investindo com baixo custo utilizando a Internet.
@@ -22,17 +21,14 @@ O E-commerce como ferramenta estratégica
 
 Conhecer o perfil do consumidor é a estratégia que traz mais resultados aos empreendedores de lojas virtuais, simplesmente porque oferecer o produto certo para cada grupo de pessoas pode alavancar suas receitas.  O comércio eletrônico está provocando mudanças intensas na organização das empresas e na relação das empresas com seus clientes, parceiros e fornecedores, provocando uma nova era no mundo dos negócios. “O mundo está em meio a uma revolução na forma de fazer comércio” (KALAKOTA e WHINSTON, 1997, p. 28). Desta forma, as empresasdevem repensar a forma de operar os seus negócios, pois o comércio eletrônico não significa apenas mais uma forma de vender e comprar (FREITAS et al., 2001).
 É nesse conceito que se enquadra o comércio eletrônico),que surgiu como um diferencial estratégico de vendas para as organizações. Estratégia considerada eficaz  para avançar além do mercado, adquirindo e conhecendo cada vez mais os seus clientes e podendo oferecer aquilo o que o consumidor necessita com a maior comodidade para ele, e assim, vendendo, desenvolvendo, ganhando novos mercados (Internet) e obtendo sucesso. 
+Como o e -commerce é uma ferramenta que deve está alinhada com os perfis dos consumidores,  no intuito de validar seu diferencial competitivo em uma organização, segue abaixo os dados extraídos do TCC.
 
-Estatísticas do desempenho do comércio eletrônico no Brasil
-
-Figura 1_ Evolução de E-consumidores
-
+Figura 7 – Em  2017, “O e-commerce continua apresentando um cenário positivo, principalmente por conta da consolidação do modelo de Marketplace no país, do aumento no número de consumidores virtuais e do consumo via mobile”´ Keine Monteiro, Gerente de Inteligência de Mercado Ebit (WEBSHOPPERS, 2018). Desde 2015 o ebit, em parceria com a FecomercioSP, passou a estudar mais profundamente o comércio eletrônico do estado de São Paulo (WEBSHOPPERS, 2016), gerando o gráfico de distribuição do faturamento do primeiro trimestre de 2016, conforme figura 8.
 
 
-
-
-
-Disponível em: http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0093.pdf
+Disponível em: 
+http://www.fgv.br/network/tcchandler.axd?TCCID=7939
+http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0093.pdf
 IDESIS, Leandro. E-COMMERCE, E-BUSINESS, E-O QUE? Disponível em: http://www.e-commerce.org.br/artigos/ecommerce_ebusiness.php 
 CHIAVENATO, Idalberto. Introdução à Teoria Geral da Administração. 2. ed. Rio de Janeiro : Editora Campus, 2000.
 http://www.inovarse.org/sites/default/files/T_15_205.pdf
