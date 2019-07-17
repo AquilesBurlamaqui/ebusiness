@@ -1,4 +1,5 @@
-Este capítulo " Visão geral e o E-Commerce como ferramenta estratégica" trata de conteúdos bibliográficos necessários a fundamentação do tema. Abordando conceitos do e-commerce, sua importância e os impactos provocados no comportamento do consumidor. 
+Este capítulo " Visão geral e o E-Commerce como ferramenta estratégica" trata de conteúdos bibliográficos necessários a fundamentação do tema. Abordando conceitos do e-commerce, sua importância e os impactos provocados no comportamento do consumidor apresentando dados de um artigo com o tema" O COMÉRCIO ELETRÔNICO COMO FERRAMENTA ESTRATÉGICA DE VENDAS PARA EMPRESAS " escrito por Letícia Lelis Diniz, Lívia Garcia Alves de Souza, Luan Rodrigues da Conceição e Marcelo Rangel Faustini para o III ENCONTRO CIENTÍFICO E SIMPÓSIO DE EDUCAÇÃO
+UNISALESIANO. 
 
 
 Enquanto as empresas estão imersas no mundo da Tecnologia de Informação é importante descobrir e utilizar meios e caminhos que facilitem seu desenvolvimento e progresso, para tanto o uso de ferramentas menos onerosas são vitais para a sobrevivência dessas empresas. Daí a importância do e-commerce como ferramenta estratégica que tem o objetivo de ajudar as organizações a adquirirem clientes potenciais, conhecerem mais os clientes, proporcionar uma melhor qualidade nas vendas, oferecendo para o consumidor aquilo o que ele realmente necessita e aumentando os seus  lucros. E tudo isso, investindo com baixo custo utilizando a Internet.
@@ -19,18 +20,20 @@ Analisando os conceitos dos autores entendemos que, um bom exemplo de comércio 
 
 O E-commerce como ferramenta estratégica
 
-Conhecer o perfil do consumidor é a estratégia que traz mais resultados aos empreendedores de lojas virtuais, simplesmente porque oferecer o produto certo para cada grupo de pessoas pode alavancar suas receitas. 
+Conhecer o perfil do consumidor é a estratégia que traz mais resultados aos empreendedores de lojas virtuais, simplesmente porque oferecer o produto certo para cada grupo de pessoas pode alavancar suas receitas.  O comércio eletrônico está provocando mudanças intensas na organização das empresas e na relação das empresas com seus clientes, parceiros e fornecedores, provocando uma nova era no mundo dos negócios. “O mundo está em meio a uma revolução na forma de fazer comércio” (KALAKOTA e WHINSTON, 1997, p. 28). Desta forma, as empresasdevem repensar a forma de operar os seus negócios, pois o comércio eletrônico não significa apenas mais uma forma de vender e comprar (FREITAS et al., 2001).
+É nesse conceito que se enquadra o comércio eletrônico),que surgiu como um diferencial estratégico de vendas para as organizações. Estratégia considerada eficaz  para avançar além do mercado, adquirindo e conhecendo cada vez mais os seus clientes e podendo oferecer aquilo o que o consumidor necessita com a maior comodidade para ele, e assim, vendendo, desenvolvendo, ganhando novos mercados (Internet) e obtendo sucesso. 
+
+Estatísticas do desempenho do comércio eletrônico no Brasil
+
+Figura 1_ Evolução de E-consumidores
+
 
 
 
 
 
 Disponível em: http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0093.pdf
-
 IDESIS, Leandro. E-COMMERCE, E-BUSINESS, E-O QUE? Disponível em: http://www.e-commerce.org.br/artigos/ecommerce_ebusiness.php 
-
 CHIAVENATO, Idalberto. Introdução à Teoria Geral da Administração. 2. ed. Rio de Janeiro : Editora Campus, 2000.
-
 http://www.inovarse.org/sites/default/files/T_15_205.pdf
-
 http://www.ufrgs.br/gianti/files/artigos/2006/2006_189_ANGRAD.pdf
