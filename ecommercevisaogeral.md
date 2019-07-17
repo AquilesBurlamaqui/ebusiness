@@ -24,6 +24,10 @@ Conhecer o perfil do consumidor é a estratégia que traz mais resultados aos em
 Como o e -commerce é uma ferramenta que deve está alinhada com os perfis dos consumidores,  no intuito de validar seu diferencial competitivo em uma organização, segue abaixo os dados extraídos do mercado Ebit que associa o crescimento das vendas no e-commerce feitas pelo celular.
 
 Analisando dados de mercado Ebit:  Mais de 40% das vendas no e-commerce em 2019 foram feitas pelo celular, diz Ebit/Nielsen.Depois de aumentar 12% em 2018, o e-commerce deve ter mais um ano de crescimento na casa dos dois dígitos. Segundo o 39º Webshoppers, o comércio eletrônico no Brasil deve saltar 15% em 2019 e faturar R$ 61,2 bilhões. Em 2019, 42,8% das vendas foram finalizadas em dispositivo móveis, um recorde desde que a empresa começou a levantar os dados.
+Enquanto o crescimento do e-commerce foi de 12%, as transações mobile tiveram um salto de 41%, e essa tendência deve se manter em 2019.
+Outro fator fundamental foi a entrada de novos consumidores – movimento influenciado pela maior penetração de internet na população, especialmente pelo aumento no número de celulares no país.
+Esses dois cenários mostram quem o comércio eletrônico está para entrar em um novo estágio no que a empresa chama de “rota do e-commerce”. Hoje, as compras online representam 4,3% do varejo nacional, ainda segundo a consultoria.
+
 
 
 
