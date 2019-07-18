@@ -31,7 +31,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
 1. [Customer Success](customerSucess.md) (Grupo 2:Diogo,??,???,???)
 1. [E-Business no RN](ebusinessnoRN.md) (Grupo 3:???,??,???,???)
 1. [E-Business no Brasil](ebusinessnobrasil.md) (Grupo 4: ???,??,???,???)
-1. [E-Business no Mundo](ebusinessmundo.md) (Grupo 5: Samuel Dias, Cleiton Castro,???,???)
+1. [E-Business no Mundo](ebusinessmundo.md) (Grupo 5: Samuel Dias, Cleiton Castro,Mauro Oruam,???)
    1. [Uma breve história sobre negócios]()
    1. [A Evolução do E-Business no mundo]()
    1. [Sobre as empresas de e-business mais valiosas](ebusinessmaisvaliosas.md)
