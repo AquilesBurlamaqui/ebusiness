@@ -1,7 +1,7 @@
 # Ferramentas para E-Business
 
 Conforme citamos no item “Negócios eletrônicos – uma visão interna da empresa”, os negócios  eletrônicos utilizam sistemas, geralmente via internet, para gerir ou aperfeiçoar os processos internos de uma empresa. Existem inúmeras ferramentas no mercado capazes de realizar a gestão de E-business.
-Na pesquisa dessas ferramentas realizada na internet, podemos identificar XX tipos: 
+Na pesquisa dessas ferramentas realizada na internet, podemos identificar 12 tipos: 
 1)	Ferramentas do Google
 a.	Google Analytics
 b.	Google trends
