@@ -19,4 +19,9 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 1. [Dispositivo de tecnologia assistiva para surdos como um serviço?](https://docs.google.com/document/d/18A0QcP-ko3-KKh49AXwA993ISm-Yx4O_uhPWkRXxrno/edit?usp=sharing) by Ana Caline
 1. [Utilização de métodos de aprendizado de máquina para tratar dados veiculares obtidos através da tecnologia OBD-II](https://docs.google.com/document/d/1aufp3bpgUNFGycPyO6dilS8OYI1ABgnSoaNM9DFyMbw/edit?usp=sharing) by Diogo Ikaro
 1. Método de automatização do processo de redosagem de concreto em central dosadora - By Raphael Rodrigues
+
+1. [Gameficação e bussiness](https://docs.google.com/document/d/1eAN-SGgcoCBnvKpyO_3IMIcaIvV4T357xsqiNBR-E40) By MARCOS ANDRÉ FARIAS DE OLIVEIRA
+
+
+
 ## 2019.2
