@@ -30,7 +30,7 @@ Para começar a contribuir bastar criar um usuário no github e seguir as seguin
    1. [Como viabilizar o acesso de pessoas com deficiência ao comércio eletrônico](pessoascomdeficienciaaocomercioeletronico.md)
 1. [Customer Success](customerSucess.md) (Grupo 2:Diogo,??,???,???)
 1. [Criando negócios Eletrônicos Exponência](negociosexponencias.md)(Marcos)
-1. [E-Business no RN](ebusinessnoRN.md) (Grupo 3:???,??,???,???)
+1. [E-Business no RN](ebusinessnoRN.md) (Grupo 3:Pablo,Paulo,Cassio)
 1. [E-Business no Brasil](ebusinessnobrasil.md) (Grupo 4: ???,??,???,???)
 1. [E-Business no Mundo](ebusinessmundo.md) (Grupo 5: Samuel Dias, Cleiton Castro,Mauro Oruam,???)
    1. [Uma breve história sobre e-business no mundo](historiaebusinessmundo.md)
