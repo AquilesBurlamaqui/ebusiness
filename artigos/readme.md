@@ -20,7 +20,7 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 1. [Utilização de métodos de aprendizado de máquina para tratar dados veiculares obtidos através da tecnologia OBD-II](https://docs.google.com/document/d/1aufp3bpgUNFGycPyO6dilS8OYI1ABgnSoaNM9DFyMbw/edit?usp=sharing) by Diogo Ikaro
 1. Método de automatização do processo de redosagem de concreto em central dosadora - By Raphael Rodrigues
 
-1. [Gameficação e bussiness](https://docs.google.com/document/d/1eAN-SGgcoCBnvKpyO_3IMIcaIvV4T357xsqiNBR-E40) By MARCOS ANDRÉ FARIAS DE OLIVEIRA
+1. [Gamification and Entrepreneurship Education: A Review of Literature and Research Directions](https://docs.google.com/document/d/1eAN-SGgcoCBnvKpyO_3IMIcaIvV4T357xsqiNBR-E40) By MARCOS ANDRÉ FARIAS DE OLIVEIRA
 
 
 
